@@ -21,9 +21,9 @@ This project is a responsive and interactive **Weather Web Application** built u
 
 ```
 Weather-App/
-├── index.html # UI structure
-├── style.css # Styling and responsiveness
-└── script.js # Core functionality
+├── index.html 
+├── style.css
+└── script.js
 ```
 
 ## 🧾 How It Works
