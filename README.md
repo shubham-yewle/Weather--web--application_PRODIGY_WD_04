@@ -44,7 +44,7 @@ https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
 2. Navigate to the project directory:
 
 ```bash
-cd Weather-Web-Applicationc
+cd "Weather-Web-Applicationc" PRODIGY_WD_04
 ```
 
 3. Open `index.html` in your browser and start checking weather!
