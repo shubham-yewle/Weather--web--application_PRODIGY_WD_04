@@ -37,8 +37,8 @@ Weather-App/
 
 1. Clone the repository:
 
- ```bash
- https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
+```bash
+https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
 ```
 
 2. Navigate to the project directory:
