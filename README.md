@@ -19,10 +19,14 @@ This project is a responsive and interactive **Weather Web Application** built u
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```
 Weather-App/
 ├── index.html # UI structure
 ├── style.css # Styling and responsiveness
 └── script.js # Core functionality
+```
 
 ## 🧾 How It Works
 
@@ -33,11 +37,16 @@ Weather-App/
 
 ## 📦 Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
 
-   ```bash
-   git clone https://github.com/shubham-yewle/Weather-Web-Application_PRODIGY_WD_04.git
+2. Navigate to the project folder: cd Weather-Web-Applicationc
 
+3. Open index.html in your browser and start checking weather!
 
+👨‍💻 Author
 
+Shubham Yewle
+* LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310
+* GitHub - Profile URL : https://github.com/shubham-yewle
+* | [Portfolio]
 
