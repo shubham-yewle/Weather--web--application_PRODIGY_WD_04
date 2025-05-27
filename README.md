@@ -19,8 +19,6 @@ This project is a responsive and interactive **Weather Web Application** built u
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 Weather-App/
 ├── index.html # UI structure
