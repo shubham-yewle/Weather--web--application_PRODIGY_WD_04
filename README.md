@@ -1,4 +1,4 @@
-# Weather--web--application_PRODIGY_WD_04
+# Weather--web--application_PRODIGY_WD_05
 
 This project is a responsive and interactive **Weather Web Application** built using HTML, CSS, and JavaScript. It allows users to fetch real-time weather data like temperature and wind speed simply by entering a city name.
 
@@ -38,13 +38,13 @@ Weather-App/
 1. Clone the repository:
 
 ```bash
-https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
+https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_05.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd "Weather-Web-Applicationc" PRODIGY_WD_04
+cd "Weather-Web-Applicationc" PRODIGY_WD_05
 ```
 
 3. Open `index.html` in your browser and start checking weather!
