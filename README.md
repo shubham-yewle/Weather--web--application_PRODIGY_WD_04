@@ -35,11 +35,19 @@ Weather-App/
 
 ## 📦 Setup
 
-1. Clone the repository: https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
+1. Clone the repository:
 
-2. Navigate to the project folder: cd Weather-Web-Applicationc
+ ```bash
+ https://github.com/shubham-yewle/Weather--web--application_PRODIGY_WD_04.git
+```
 
-3. Open index.html in your browser and start checking weather!
+2. Navigate to the project directory:
+
+```bash
+cd Weather-Web-Applicationc
+```
+
+3. Open `index.html` in your browser and start checking weather!
 
 👨‍💻 Author
 
